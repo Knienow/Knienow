@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Katia Nienow  
+- 👀 I'm interested in Java, CSS, HTML, JS, React 
+- 🌱 I’m currently learning HTML, CSS, database integration
+- 💞️ I’m looking to collaborate on CSS projects
+- 📫 How to reach me in LinkedIn - https://www.linkedin.com/in/katia-nienow-763481130/
