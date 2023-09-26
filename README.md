@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Katia Nienow  
 - 👀 I'm interested in Java, CSS, HTML, JS, React 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CSS projects
 - 📫 How to reach me in LinkedIn - https://www.linkedin.com/in/katia-nienow/
